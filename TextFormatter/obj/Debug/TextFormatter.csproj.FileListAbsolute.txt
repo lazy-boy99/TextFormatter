@@ -1,0 +1,7 @@
+D:\projects\C#\Собеседования\TextFormatter\TextFormatter\bin\Debug\TextFormatter.exe.config
+D:\projects\C#\Собеседования\TextFormatter\TextFormatter\bin\Debug\TextFormatter.exe
+D:\projects\C#\Собеседования\TextFormatter\TextFormatter\bin\Debug\TextFormatter.pdb
+D:\projects\C#\Собеседования\TextFormatter\TextFormatter\obj\Debug\TextFormatter.csprojAssemblyReference.cache
+D:\projects\C#\Собеседования\TextFormatter\TextFormatter\obj\Debug\TextFormatter.csproj.CoreCompileInputs.cache
+D:\projects\C#\Собеседования\TextFormatter\TextFormatter\obj\Debug\TextFormatter.exe
+D:\projects\C#\Собеседования\TextFormatter\TextFormatter\obj\Debug\TextFormatter.pdb
